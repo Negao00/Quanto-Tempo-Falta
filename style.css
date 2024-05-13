@@ -7,17 +7,17 @@ url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
     --verde:#6FFF57;
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background-color:var(--cor-de-fundo);
     color: var(--branco);
     text-align: center;
     font-family: 'Chakra Petch';
 }
 
 h1 span{
-    color: var(--verde)
+    color:var(--verde)
 }
 
 #dias_ restantes{
-    color: var(--verde);
+    color:var(--verde);
     font-size: 50px;
 }
